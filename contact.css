@@ -4,7 +4,7 @@ body {
     background-position: center;
     font-family: 'Times New Roman', Times, serif;
     color: #e8e8e8;
-    text-align: center; /* Align everything center */
+    text-align: center; 
   }
   
   header {
@@ -46,8 +46,8 @@ body {
     margin-top: 5px;
     font-size: 1em;
     background-color: #404040;
-    color: #e8e8e8; /* Light text color */
-    text-align: center; /* Align input text center */
+    color: #e8e8e8; 
+    text-align: center; 
   }
   
   button {
@@ -74,7 +74,7 @@ body {
       background-color: #333333;
       border-radius: 10px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
-      text-align: left; /* Align form elements left */
+      text-align: left; 
     }
   }
   
